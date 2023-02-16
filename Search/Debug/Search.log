@@ -1,0 +1,3 @@
+﻿  Search.cpp
+D:\Necessary\Work\Kwork\searcher\Search\Search.cpp(102): warning C4715: FibonacciSearch: значение возвращается не при всех путях выполнения
+  Search.vcxproj -> D:\Necessary\Work\Kwork\searcher\Search\Debug\Search.exe
