@@ -1,0 +1,11 @@
+D:\Necessary\Work\Kwork\Screenshoter\Test\bin\Debug\Test.exe.config
+D:\Necessary\Work\Kwork\Screenshoter\Test\bin\Debug\Test.exe
+D:\Necessary\Work\Kwork\Screenshoter\Test\bin\Debug\Test.pdb
+D:\Necessary\Work\Kwork\Screenshoter\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Necessary\Work\Kwork\Screenshoter\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Necessary\Work\Kwork\Screenshoter\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\Necessary\Work\Kwork\Screenshoter\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Necessary\Work\Kwork\Screenshoter\Test\obj\Debug\Test.exe
+D:\Necessary\Work\Kwork\Screenshoter\Test\obj\Debug\Test.pdb
+D:\Necessary\Work\Kwork\Screenshoter\Test\obj\Debug\Test.Form1.resources
+D:\Necessary\Work\Kwork\Screenshoter\Test\obj\Debug\Test.Form2.resources
